@@ -1,4 +1,3 @@
-@Library('tec-wolox-ci')
 import com.wolox.parser.ConfigParser;
 import com.wolox.*;
 
